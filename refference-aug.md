@@ -1,0 +1,2 @@
+- [ ] [1]函数范式与领域建模.张逸.zhangyi.xyz/fp-and-domain-model/
+- [ ] [2]什么是代数类型.知乎匿名回答.https://www.zhihu.com/question/24460419/answer/771705967

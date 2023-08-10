@@ -4,4 +4,7 @@
 - [x] [3]代数类型系统.范长春.深入浅出Rust
 - [x] [4]代数类型中的代数 Part1.张汉东.https://zhuanlan.zhihu.com/p/24767019
 - [ ] [5]Implementing, and Understanding Type Classes.https://okmij.org/ftp/Computation/typeclass.html
+    读了一半。
+- [x] [6]初探 IO 型態.https://openhome.cc/zh-tw/haskell/impurity/io/
+- [x] [7]预备篇：范畴与函子.https://zhuanlan.zhihu.com/p/23206745
 

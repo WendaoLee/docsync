@@ -7,4 +7,5 @@
     读了一半。
 - [x] [6]初探 IO 型態.https://openhome.cc/zh-tw/haskell/impurity/io/
 - [x] [7]预备篇：范畴与函子.https://zhuanlan.zhihu.com/p/23206745
+- [x] [8]The Python Paradox.http://paulgraham,com/pypar.html
 

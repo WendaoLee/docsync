@@ -4,3 +4,4 @@
   在HTML中直接通过属性执行请求的一个有意思的Javascript库。比较old，但可以适合快速开发，我想。
 - [ ] [2]The Haskell Road to Logic, Math and Programming
   用Haskell学习数理逻辑。
+- [ ] [3]谷歌的反“背锅”文化.https://mp.weixin.qq.com/s/ZD5lIry-wYXyX6JKuCWmIw

@@ -8,4 +8,14 @@
 - [x] [6]初探 IO 型態.https://openhome.cc/zh-tw/haskell/impurity/io/
 - [x] [7]预备篇：范畴与函子.https://zhuanlan.zhihu.com/p/23206745
 - [x] [8]The Python Paradox.http://paulgraham,com/pypar.html
+- [x] [9]<译>类型与函数.https://segmentfault.com/a/1190000003888544
+    该篇为Categroy Theory For Programmers的中文翻译中的一篇。该篇讲述了几个我不知道的点：
+
+    - Bottom 底，`_|_`，无终止。
+
+    - 操作语义（operational semantic）与指称语义（Denotational semantic）
+- [x] [10]用JS代码完整解释Monad.https://zhuanlan.zhihu.com/p/56810671
+    这篇文档我之前看过。如今重读又有了些许新的理解。
+- [ ] [11]<译>Kleisli 范畴.https://segmentfault.com/a/1190000003898795
+    建立于Monad之上的范畴。
 

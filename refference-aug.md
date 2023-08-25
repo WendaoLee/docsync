@@ -20,4 +20,5 @@
     建立于Monad之上的范畴。
 - [x] [12]Haskell函数式编程入门(第二版).张淞.https://www.epubit.com/bookDetails?id=N20794&tabName=%E4%B9%A6%E6%9E%B6
     应该是目前接触的最好的入门教材。
+    学院派味很浓的一本书。有点像在看论文。
 

@@ -21,4 +21,6 @@
 - [x] [12]Haskell函数式编程入门(第二版).张淞.https://www.epubit.com/bookDetails?id=N20794&tabName=%E4%B9%A6%E6%9E%B6
     应该是目前接触的最好的入门教材。
     学院派味很浓的一本书。有点像在看论文。
+- [x] [13]What is functor in Haskell.http://scarletsky.github.io/2016/02/09/what-is-functor-in-haskell/
+- [x] [14]What is applicative in Haskell.http://scarletsky.github.io/2016/03/07/what-is-applicative-in-haskell/
 

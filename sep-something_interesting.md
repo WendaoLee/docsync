@@ -1,0 +1,1 @@
+[1] 在Javascript中添加类型注记的提案.https://tc39.es/proposal-type-annotations/

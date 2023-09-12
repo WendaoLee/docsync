@@ -8,5 +8,7 @@
 - [x] [7]Haskell : Higher-Rank and Higher-Kinded Types.https://namc.in/posts/higher-rank-higher-kinded-types/
 - [ ] [8]Universal and Existential Quantification in Haskell.https://serokell.io/blog/universal-and-existential-quantification
 - [ ] [9]Episode 5 - A simple DSL.https://www.schoolofhaskell.com/user/adinapoli/the-pragmatic-haskeller/episode-5-a-simple-dsl
-- [ ] 'type family' vs 'data family', in brief?.https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
-- [ ] Type families.https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/type_families.html#data-families
+- [ ] [10]'type family' vs 'data family', in brief?.https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
+- [ ] [11]Type families.https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/type_families.html#data-families
+- [ ] [12]Values, Types, and Other Goodies.https://www.haskell.org/tutorial/goodies.html
+- [ ] [13]Unboxed types and primitive operations¶.https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/primitives.html

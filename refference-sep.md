@@ -35,6 +35,8 @@
 
 - [ ] [17]一步步掌握LLVM.https://zhuanlan.zhihu.com/p/140462815
 
-- [ ] [18]How to make a fast curry: push/enter vs eval/apply.https://www.microsoft.com/en-us/research/publication/make-fast-curry-pushenter-vs-evalapply/
+- [x] [18]How to make a fast curry: push/enter vs eval/apply.https://www.microsoft.com/en-us/research/publication/make-fast-curry-pushenter-vs-evalapply/
+除了Measurements部分
 
 - [ ] [19]The GHC Runtime System.http://web.mit.edu/~ezyang/Public/jfp-ghc-rts.pdf
+- [ ] [20]Haskell classes:25 yearslater.https://discourse.haskell.org/t/haskell-classes-25-years-later/7609
